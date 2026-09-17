@@ -1,6 +1,6 @@
 # Báo cáo Day 5 — điền trực tiếp trong fork của bạn
 
-**Cách dùng:** Thay mọi dấu `…` bằng bài làm thật của bạn trước khi nộp link fork trên VLearn. Giữ nguyên bốn mục và bảng để coach đọc nhanh. Viết ngắn, cụ thể theo ảnh/vùng; không cần thuật ngữ chuyên sâu. Ví dụ trong [hướng dẫn mẫu](reports/REPORT_TEMPLATE.md) chỉ giúp hiểu cách điền, không phải câu trả lời để chép lại.
+**Cách dùng:** Bản nộp chính là file này. Bản điền đầy đủ kèm giải thích từng mục nằm ở [reports/REPORT_TEMPLATE.md](reports/REPORT_TEMPLATE.md). Giữ nguyên bốn mục và bảng để coach đọc nhanh.
 
 - Mã học viên theo lớp: 2A202602167
 - Ngày / CVAT local: 17/09/2026, CVAT local
